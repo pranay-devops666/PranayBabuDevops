@@ -10,7 +10,7 @@
 - 🔭 I’m working on DevOps Projects (AWS, Kubernetes, Terraform)
 - 🌱 Currently learning Advanced Kubernetes & CI/CD
 - 💬 Ask me about DevOps, AWS, Docker
-- 📫 How to reach me: your-email@gmail.com
+- 📫 How to reach me: gorantlapranay8@gmail.com
 ### 🚀 Languages and Tools:
 
 <p>
