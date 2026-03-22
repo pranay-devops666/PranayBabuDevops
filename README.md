@@ -34,7 +34,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical" />
 </p>
 ### 🤝 Connect with me:
-
-<p>
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-</p>
